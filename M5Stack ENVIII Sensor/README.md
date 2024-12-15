@@ -8,6 +8,8 @@ This example reads the temperature, humidity and pressure from the [ENVIII senso
 ## Supported Boards:
 - [M5Stack Core2](https://docs.m5stack.com/en/core/core2) (firmware 2.1.9-Core2)
 - [M5Stack M5Stick CPlus 1.1](https://docs.m5stack.com/en/core/m5stickc_plus) (firmware v1.14.0)
+- [M5Stack CoreInk](https://docs.m5stack.com/en/core/coreink) (firmware v2.1.9, v1.14.0)
+
 
 
 ## Pinout
